@@ -1,0 +1,29 @@
+*{
+    font-size: 14px;
+}
+body{
+    background-color: #F3F1FF;
+}
+.logo{
+    width: 40.42px;
+    height:51px;
+}
+.menu-bar{
+    background-color: #562EFF; 
+}
+.title{
+    color:#562EFF;
+}
+.blog{
+    width: 177px;
+}
+.star{
+    color: orange;
+}
+.retting{
+    color: #9C9C9C;
+}
+.courses{
+    width: 224px;
+    height: 104px;
+}
